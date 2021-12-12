@@ -22,6 +22,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeena-joy&count_private=true)  
  
 ### Reach me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jeena-joy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jeena-joy/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jeena-joy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jeena-joy-577a3845/)
 <a href="mailto:jeenajoy5@gmail.com"><img src="https://img.shields.io/badge/-jeenajoy5@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  
