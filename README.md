@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Jeena Joy!
-#### DevOps Engineer!
+#### DevOps Engineer !
 
 
  ### What I'm doing: 
