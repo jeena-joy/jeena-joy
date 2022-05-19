@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Jeena Joy!
-#### Cloud Support Engineer!
+#### DevOps Engineer!
 
 
  ### What I'm doing: 
